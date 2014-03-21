@@ -1,0 +1,15 @@
+{
+  "name": "co-retry",
+  "version": "1.0.0",
+  "description": "Automatically retry generators that fail",
+  "author": "Manuel Vila <mvila@3base.com>",
+  "main": "index.js",
+  "repository": "git://github.com/mvila/co-retry",
+  "license": "MIT",
+  "dependencies": {
+    "co-wait": "^0.0.0"
+  },
+  "devDependencies": {
+    "co": "~3.0.5"
+  }
+}
