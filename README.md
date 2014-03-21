@@ -27,7 +27,7 @@ co-retry will re-run your generator if it throws an error.
 
     yield retry(job);
 
-If you need to call fn with a context and some arguments, simply use the ES5 bind feature.
+If you need to call fn with a context and some arguments, simply use the ES5 `bind` feature.
 
     yield retry(job.bind(ctx, arg1, arg2));
 
