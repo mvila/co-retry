@@ -8,4 +8,6 @@ var job = function *() {
 
 co(function *(){
   yield retry(job);
-})();
+}).catch(function(err) {
+  console.error(err.stack);
+});
