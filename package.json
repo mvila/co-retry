@@ -1,6 +1,6 @@
 {
   "name": "co-retry",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Automatically retry generators that fail",
   "author": "Manuel Vila <mvila@3base.com>",
   "main": "index.js",
