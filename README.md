@@ -1,4 +1,4 @@
-# co-retry [![Build Status](https://travis-ci.org/kinda/co-retry.svg?branch=master)](https://travis-ci.org/kinda/co-retry)
+# co-retry [![Build Status](https://travis-ci.org/mvila/co-retry.svg?branch=master)](https://travis-ci.org/mvila/co-retry)
 Retries generators that throw an error.
 
 ## Installation
